@@ -1,0 +1,10 @@
+Package: myfunnelplot
+Type: Package
+Title: Funnel Plot Creation Tool
+Version: 0.1.0
+Author: gohgabriel
+Description: A package for easily creating funnel plots in R.
+License: MIT
+Depends: R (>= 3.5.0)
+Imports: ggplot2  
+RoxygenNote: 7.3.1
