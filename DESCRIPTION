@@ -8,3 +8,5 @@ License: MIT
 Depends: R (>= 3.5.0)
 Imports: ggplot2  
 RoxygenNote: 7.3.1
+URL: https://github.com/gohgabriel/myfunnelplot
+BugReports: https://github.com/gohgabriel/myfunnelplot/issues
